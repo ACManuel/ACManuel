@@ -26,7 +26,7 @@ Apasionado por transformar problemas complejos en **soluciones digitales de alto
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,html,css,nextjs,react,angular,tailwind,flutter,bootstrap,nodejs,supabase,mysql,sqlite,gcp,vercel,cloudflare,git,github,linux,docker&perline=12" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,php,html,css,nextjs,react,angular,tailwind,flutter,bootstrap,nodejs,supabase,postgres,mysql,sqlite,gcp,vercel,cloudflare,git,github,vscode,postman,figma,linux,docker&perline=10" />
 </div>
 
 ---
